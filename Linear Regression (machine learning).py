@@ -29,7 +29,7 @@ print(x)
 
 # Data Visualization
 # Create plot
-A = plt.hist(x, y, bins=10, color='green', edgecolor='black')
+plt.hist(x, y, bins=10, color='blue', edgecolor='black')
 
 # Add labels and title
 plt.xlabel("PROFIT")
