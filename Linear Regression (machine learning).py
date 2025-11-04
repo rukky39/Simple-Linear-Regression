@@ -6,7 +6,6 @@ import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
 
-# prepare data, building model, communicate result
 # Prepare Data
 
 # A. Importing the dataset
