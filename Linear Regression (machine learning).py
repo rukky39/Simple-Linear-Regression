@@ -29,7 +29,7 @@ print(x)
 
 # Data Visualization
 # Create plot
-plt.hist(x, y, bins=10, color='blue', edgecolor='black')
+A = plt.hist(x, y, bins=10, color='green', edgecolor='black')
 
 # Add labels and title
 plt.xlabel("PROFIT")
@@ -38,13 +38,6 @@ plt.title("Simple Line Plot")
 
 # Show plot
 plt.show()
-
-# Building the Correlation Matrix
-
-
-
-
-
 
 
 
