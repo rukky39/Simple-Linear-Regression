@@ -1,12 +1,9 @@
 # Importing the libraries
-#import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt
-
-# Prepare Data
 
 # A. Importing the dataset
 data = pd.read_csv("/Users/apple/Documents/PYTHON DOCUMENTS/1000_Companies.csv")
@@ -37,6 +34,4 @@ plt.title("Simple Line Plot")
 
 # Show plot
 plt.show()
-
-
 
